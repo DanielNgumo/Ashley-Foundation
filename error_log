@@ -1,0 +1,105 @@
+[13-Jul-2023 09:16:16 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermailContact.php on line 5
+[13-Jul-2023 09:16:37 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermail.php on line 5
+[13-Jul-2023 09:16:40 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermail.php on line 5
+[13-Jul-2023 09:16:42 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermail.php on line 5
+[13-Jul-2023 09:16:56 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermailContact.php on line 5
+[13-Jul-2023 09:19:40 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermailContact.php on line 5
+[13-Jul-2023 11:49:56 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermailContact.php on line 5
+[13-Jul-2023 14:14:17 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/hcacade1/public_html/sendermailContact.php on line 5
+[20-Jul-2023 13:59:42 UTC] PHP Warning:  Undefined variable $subject in /home/hcacade1/public_html/sendermail.php on line 33
+[20-Jul-2023 14:00:20 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From):  in /home/hcacade1/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1324
+Stack trace:
+#0 /home/hcacade1/public_html/sendermail.php(30): PHPMailer\PHPMailer\PHPMailer->setFrom('', 'Certificate in ...')
+#1 {main}
+  thrown in /home/hcacade1/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1324
+[20-Jul-2023 14:02:59 UTC] PHP Warning:  Undefined variable $subject in /home/hcacade1/public_html/sendermail.php on line 33
+[20-Jul-2023 14:03:02 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From):  in /home/hcacade1/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1324
+Stack trace:
+#0 /home/hcacade1/public_html/sendermail.php(30): PHPMailer\PHPMailer\PHPMailer->setFrom('', 'Certificate in ...')
+#1 {main}
+  thrown in /home/hcacade1/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1324
+[20-Jul-2023 23:23:29 UTC] PHP Warning:  Undefined variable $subject in /home/hcacade1/public_html/sendermail.php on line 33
+[20-Jul-2023 23:36:16 UTC] PHP Warning:  Undefined variable $subject in /home/hcacade1/public_html/sendermail.php on line 33
+[20-Jul-2023 23:36:16 UTC] PHP Warning:  Undefined variable $phone in /home/hcacade1/public_html/sendermail.php on line 35
+[21-Jul-2023 00:04:09 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 30
+[21-Jul-2023 00:04:09 UTC] PHP Warning:  Undefined variable $subject in /home/hcacade1/public_html/sendermail.php on line 33
+[21-Jul-2023 12:09:40 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 30
+[21-Jul-2023 12:11:06 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 30
+[21-Jul-2023 12:11:06 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From):  in /home/hcacade1/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1324
+Stack trace:
+#0 /home/hcacade1/public_html/sendermail.php(30): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/hcacade1/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1324
+[21-Jul-2023 22:11:16 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 30
+[21-Jul-2023 22:16:15 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/hcacade1/public_html/sendermail.php on line 24
+[21-Jul-2023 22:28:32 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:29:54 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:39:11 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:39:11 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 48
+[21-Jul-2023 22:39:11 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 22:39:11 UTC] PHP Warning:  Undefined variable $Phone in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:41:47 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:41:47 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 48
+[21-Jul-2023 22:41:47 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 22:41:47 UTC] PHP Warning:  Array to string conversion in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:41:47 UTC] PHP Warning:  Attempt to read property "Array" on string in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:41:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:44:52 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:44:52 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 22:44:52 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:44:52 UTC] PHP Warning:  Array to string conversion in /home/hcacade1/public_html/sendermail.php on line 51
+[21-Jul-2023 22:44:52 UTC] PHP Warning:  Attempt to read property "Array" on string in /home/hcacade1/public_html/sendermail.php on line 51
+[21-Jul-2023 22:44:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hcacade1/public_html/sendermail.php on line 51
+[21-Jul-2023 22:48:06 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:48:06 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 48
+[21-Jul-2023 22:48:06 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 22:48:06 UTC] PHP Warning:  Undefined variable $Phone in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:48:06 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Phone" on null in /home/hcacade1/public_html/sendermail.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 22:49:03 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 22:49:03 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 48
+[21-Jul-2023 22:49:03 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 23:14:31 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:14:31 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 23:14:31 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 23:18:07 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:18:07 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 23:18:07 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 51
+[21-Jul-2023 23:20:48 UTC] PHP Warning:  Undefined array key "samuelwaweru2010@gmail.com" in /home/hcacade1/public_html/sendermail.php on line 45
+[21-Jul-2023 23:22:31 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:22:31 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 49
+[21-Jul-2023 23:22:31 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 50
+[21-Jul-2023 23:31:10 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:31:10 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:31:10 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:31:10 UTC] PHP Warning:  Undefined variable $Phone in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:37:33 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:37:33 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:37:33 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:37:33 UTC] PHP Warning:  Undefined variable $Phone in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:42:19 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:42:19 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:42:19 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:42:19 UTC] PHP Warning:  Undefined variable $Phone in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:44:34 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[21-Jul-2023 23:44:34 UTC] PHP Warning:  Undefined variable $Firstname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:44:34 UTC] PHP Warning:  Undefined variable $Secondname in /home/hcacade1/public_html/sendermail.php on line 54
+[21-Jul-2023 23:44:34 UTC] PHP Warning:  Undefined variable $Phone in /home/hcacade1/public_html/sendermail.php on line 54
+[22-Jul-2023 10:59:38 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:10:12 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:26:30 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:26:30 UTC] PHP Warning:  Undefined variable $msg in /home/hcacade1/public_html/sendermail.php on line 58
+[22-Jul-2023 11:27:49 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:31:00 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:34:37 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:35:42 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:37:55 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:38:45 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 11:50:36 UTC] PHP Warning:  Undefined variable $msg in /home/hcacade1/public_html/sendermailContact.php on line 44
+[22-Jul-2023 13:18:59 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[22-Jul-2023 13:20:43 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[24-Jul-2023 10:29:24 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[31-Jul-2023 06:15:42 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
+[02-Aug-2023 05:45:01 UTC] PHP Warning:  Undefined variable $name in /home/hcacade1/public_html/sendermail.php on line 43
